@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Video masters — local archive only, never served (see optimized-assets/README.md)
+CCS/Video/
+deliver-releasing/video/
